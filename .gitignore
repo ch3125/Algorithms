@@ -61,3 +61,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/JavaApplication52/nbproject/private/
+/Graphs/nbproject/private/
+/BFS/nbproject/private/
+/Graph/BFS/nbproject/private/
